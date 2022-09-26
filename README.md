@@ -3,9 +3,7 @@
 <a href="https://www.linkedin.com/in/zeeshan-noor-7613911b5/">
   <img align="left" alt="Zeeshan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/people/Zeeshan-Noor/100008149771169/">
-  <img align="left" alt="ZeeShan's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
